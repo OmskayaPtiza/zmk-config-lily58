@@ -71,7 +71,7 @@
             bindings = <
 &kp ESC     &none  &none           &kp PG_UP       &none            &kp LS(LG(S))                          &kp F1         &kp F2         &kp F3      &kp F4        &kp F5         &kp F6
 &kp TAB     &none  &kp BACKSPACE   &kp UP_ARROW    &kp DELETE       &kp PAGE_UP                            &kp F7         &kp F8         &kp F9      &kp F10       &kp F11        &kp F12
-&kp LSHIFT  &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp PAGE_DOWN                          &none          &kp C_VOL_DN   &kp K_MUTE  &kp C_VOL_UP  &none          &none
+&kp LSHIFT  &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp PAGE_DOWN                          &none          &kp C_VOL_DN   &kp C_MUTE  &kp C_VOL_UP  &none          &none
 &kp LCTRL   &none  &kp HOME        &kp PAGE_DOWN   &kp END          &none          &none        &none      &kp COLON      &kp BACKSLASH  &kp PIPE    &kp SLASH     &kp SEMICOLON  &none
                                    &none           &trans           &kp LEFT_ALT   &kp SPACE    &kp ENTER  &kp BACKSPACE  &trans         &kp DELETE
             >;
