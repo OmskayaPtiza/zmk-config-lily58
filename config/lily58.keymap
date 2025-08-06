@@ -66,7 +66,7 @@
 &kp ESC    &none       &none              &kp PG_UP  &none            &none                            &none       &none              &kp PG_UP  &none            &none    &none
 &kp TAB    &none       &kp BSPC           &kp UP     &kp DEL          &none                            &none       &kp BSPC           &kp UP     &kp DEL          &none    &none
 &kp LSHFT  &kp HOME    &kp LEFT           &kp DOWN   &kp RIGHT        &kp END                          &kp HOME    &kp LEFT           &kp DOWN   &kp RIGHT        &kp END  &none
-&kp LCTRL  &kp K_MUTE  &kp C_VOLUME_DOWN  &kp PG_DN  &kp C_VOLUME_UP  &none    &kp RET      &kp RET    &kp K_MUTE  &kp C_VOLUME_DOWN  &kp PG_DN  &kp C_VOLUME_UP  &none    &none
+&kp LCTRL  &kp C_MUTE  &kp C_VOLUME_DOWN  &kp PG_DN  &kp C_VOLUME_UP  &none    &kp RET      &kp RET    &kp C_MUTE  &kp C_VOLUME_DOWN  &kp PG_DN  &kp C_VOLUME_UP  &none    &none
                                           &kp LALT   &trans           &trans   &kp SPACE    &kp SPACE  &trans      &trans             &none
             >;
         };
